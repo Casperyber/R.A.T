@@ -15,8 +15,8 @@ Le serveur écoute les connexions entrantes tandis que le client exécutable se 
 
 Clonez le dépôt GitHub :
 
-git clone https://github.com/Casperyber/R.A.T.git
-cd R.A.T
+  - git clone https://github.com/Casperyber/R.A.T.git
+  - cd R.A.T
 
 ## Compilation
 
