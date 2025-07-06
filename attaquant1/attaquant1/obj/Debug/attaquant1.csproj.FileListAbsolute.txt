@@ -1,0 +1,9 @@
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\bin\Debug\attaquant1.exe.config
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\bin\Debug\attaquant1.exe
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\bin\Debug\attaquant1.pdb
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.csproj.AssemblyReference.cache
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.Properties.Resources.resources
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.csproj.GenerateResource.cache
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.csproj.CoreCompileInputs.cache
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.exe
+C:\Users\Dubert Alexis\source\repos\attaquant1\attaquant1\obj\Debug\attaquant1.pdb
